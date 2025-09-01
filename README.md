@@ -63,4 +63,4 @@ collaborate on diverse projects, there is a need for a centralized platform.
 This project was made for the Bennett University Industry Hackathon 2024. Following are the team members:
 
 - Chirag Aggarwal - E22CSEU0325
-- Ankit Raj - EE2CSEU0321
+- Ankit Raj - EE2CSEU0331
